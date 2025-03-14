@@ -8,5 +8,5 @@ tags:
   - Tartalom
 ---
 
-Hamarosan Jön a tartalom is
+Hamarosan Jön a tartalom is maco
 ![[grizzly-bear.jpg]]
