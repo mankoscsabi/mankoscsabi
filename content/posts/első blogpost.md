@@ -9,3 +9,4 @@ tags:
 ---
 
 Hamarosan Jön a tartalom is
+![[grizzly-bear.jpg]]

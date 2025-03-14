@@ -5,7 +5,7 @@ $sourcePath = "C:\Users\Admin\iCloudDrive\iCloud~md~obsidian\jegyzetek\mankoscsa
 $destinationPath = "C:\Users\Admin\Documents\mankoscsabi\content\posts"
 
 # Set Github repo 
-$myrepo = "reponame"
+$myrepo = "git@github.com:mankoscsabi/mankoscsabi.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>https://mankoscsabi.hu/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mankoscsabi.hu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blogtitle</title>
-      <link>//localhost:1313/posts/els%C5%91-blogpost-m%C3%A1solata/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/els%C5%91-blogpost-m%C3%A1solata/</guid>
-      <description>&lt;p&gt;wefwefwefgfewrgergergerg&lt;/p&gt;</description>
+      <title>HAHÓÓÓ</title>
+      <link>https://mankoscsabi.hu/posts/els%C5%91-blogpost/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mankoscsabi.hu/posts/els%C5%91-blogpost/</guid>
+      <description>&lt;p&gt;Hamarosan Jön a tartalom is&#xA;![[grizzly-bear.jpg]]&lt;/p&gt;</description>
     </item>
     <item>
-      <title>blogtitle</title>
-      <link>//localhost:1313/posts/els%C5%91-blogpost/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/els%C5%91-blogpost/</guid>
-      <description>&lt;p&gt;wefwefwefgfewrgergergerg&lt;/p&gt;</description>
+      <title>ME</title>
+      <link>https://mankoscsabi.hu/miez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mankoscsabi.hu/miez/</guid>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;&#xA;&lt;p&gt;Miskolczi Csaba vagyok, lassan 15 év kisvállalati és pár év nagyvállalati IT tapasztalattal.&lt;/p&gt;&#xA;&lt;p&gt;Voltam Sportoló.&#xA;Edző.&#xA;Maradtam, mozgássérült.&lt;/p&gt;&#xA;&lt;p&gt;Hiszek a fejlődésben és az önfejlesztésben.&lt;/p&gt;&#xA;&lt;p&gt;Ebben a blogban tapasztalataimat fogom megosztani. Nagyrészt IT és Microsoft technológia Témákban.&lt;/p&gt;&#xA;&lt;p&gt;De előfordul időnként más is írás is előfordulhat.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
