@@ -75,7 +75,7 @@ pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "MankósCsabi"
         logoHomeLink = "/"
 
       [languages.en.menu]
