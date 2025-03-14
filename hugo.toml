@@ -83,4 +83,11 @@ pagerSize = 5
           identifier = "miez"
           name = "Mi ez?"
           url = "/miez"
+      [[module.mounts]]
+        source = 'static'
+        target = 'static'
+
+      [[module.mounts]]
+        source = 'images'
+        target = 'static/images'  
         
