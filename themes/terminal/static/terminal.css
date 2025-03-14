@@ -1,5 +1,5 @@
 :root {
-  --background: #2d2341;
-  --foreground: #eceae5;
+  --background: rgb(0, 0, 255);
+  --foreground: rgb(0, 0, 255);
   --accent: #b9b9b9;
 }
