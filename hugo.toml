@@ -10,5 +10,5 @@ theme = "dario"
 
   [params.homeInfoParams]
     Title = "" # the text to display on the "/" homepage
-    Content = "Pár írásom kerül ide ami főként IT téma."
+    Content = "Pár írásom kerül ide, ami főként IT téma."
     Description = "mankóscsabi." # The description of the home page that will be used in the open graph meta tags
