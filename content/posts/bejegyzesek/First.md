@@ -2,7 +2,7 @@
 title: Első Blogbejegyzés
 author:
   - Mankóscsabi
-description: Első blogbejegyzés
+description: 
 summary: Hamarosan lesz tartalom is
 date: 2025-03-19T00:00:00-00:00
 draft: false
