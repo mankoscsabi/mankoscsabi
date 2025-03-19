@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/first-m%C3%A1solat/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/first/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,9 +9,6 @@
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/bejegyzesek/els%C5%91/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/els%C5%91/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
