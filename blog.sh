@@ -91,6 +91,6 @@ if ! git push origin main; then
     exit 1
 fi
 
-git branch -D hostinger-deploy
+git branch -D hostinger
 
 echo "All done! Site synced, processed, committed, built, and deployed."
