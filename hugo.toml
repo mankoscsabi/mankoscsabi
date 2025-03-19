@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "hu-hu"
+title = "mankoscsabi" # the title of your site
+
+theme = "dario"
+
+[params]
+  author = "Csaba Miskolczi" # the author of the site
+  description = "mankoscsabi.hu a főleg IT Blog"
+
+  [params.homeInfoParams]
+    Title = "" # the text to display on the "/" homepage
+    Content = "Pár írásom kerül ide ami főként IT téma."
+    Description = "mankóscsabi." # The description of the home page that will be used in the open graph meta tags
