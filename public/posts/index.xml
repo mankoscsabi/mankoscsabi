@@ -15,26 +15,5 @@
       <guid>/posts/bejegyzesek/first/</guid>
       <description>Hamarosan lesz tartalom is</description>
     </item>
-    <item>
-      <title>Próba</title>
-      <link>/posts/bejegyzesek/els%C5%91/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/posts/bejegyzesek/els%C5%91/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
-    </item>
-    <item>
-      <title>Próba2</title>
-      <link>/posts/bejegyzesek/masodik/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/posts/bejegyzesek/masodik/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
-    </item>
-    <item>
-      <title>Próba3</title>
-      <link>/posts/bejegyzesek/masodik-1/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/posts/bejegyzesek/masodik-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
-    </item>
   </channel>
 </rss>
